@@ -1,10 +1,10 @@
 def join_ingredients(src)
  array_1 = [['pepperoni', 'sausage'], ['green olives', 'green peppers'], ['onions', 'pineapple']]
  [
-        "I love pepperoni and sausage on my pizza",
-        "I love green olives and green peppers on my pizza",
-        "I love onions and pineapple on my pizza"
-      ])
+        ["I love pepperoni and sausage on my pizza"],
+       [ "I love green olives and green peppers on my pizza"],
+       [ "I love onions and pineapple on my pizza"]
+      ]
 
 end
 
